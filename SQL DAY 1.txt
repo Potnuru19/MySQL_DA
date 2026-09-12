@@ -1,6 +1,7 @@
 Day 1 SQL 02/09/26
 
 
+
 https://tinyurl.com/MYSQLPFSDA-05Notes
 
 after download
